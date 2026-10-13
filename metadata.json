@@ -1,0 +1,8 @@
+{
+  "name": "Soko Hub - Multi-Tenant Marketplace Prototype",
+  "description": "A multi-tenant Rwandan marketplace prototype with simulated backend engine, tenant isolation, feature gating, and live developer monitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
